@@ -17,6 +17,11 @@ The application is running on:
 http://35.237.45.106:8111/
 ```
 
+Run the application locally on:
+```
+http://0.0.0.0:8111/
+```
+
 ## Update database
 * Connect to the PostgreSQL database server:
 ```
