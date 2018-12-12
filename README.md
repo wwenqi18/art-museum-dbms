@@ -25,5 +25,5 @@ http://0.0.0.0:8111/
 ## Update database
 * Connect to the PostgreSQL database server:
 ```
-$ psql -U ww2505 -h 35.196.158.126 -d proj1part2
+$ psql -U ww2505 -h 35.237.206.133 -d proj1part2
 ```
